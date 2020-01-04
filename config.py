@@ -1,4 +1,5 @@
-# %%
-weather_api_key="8e3d09a8d15b0ab48cc80cd774ca879e"
+#weather API
+weather_api_key = "e8b7b8ba89861889e4baf0d754ccb2c2"
 
-# %%
+#google API
+g_key = "AIzaSyCxawQOa57WhaF5DvTFUfWnnIsLJs-1mVw"
